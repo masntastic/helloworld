@@ -1,1 +1,3 @@
-print("Hello world")
+Test = "Hello world var"
+
+print(Test)
