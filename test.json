@@ -1,0 +1,20 @@
+{
+    "Name": "Daniel",
+    "Age": 31,
+    "Profession": "IT Consultant",
+    "Address": "St. Jørgens vei 12",
+    "IsActive": true,
+    "FavouriteFood": [
+        "Taco",
+        "Pizza",
+        "Steak"
+    ],
+    "Grades": {
+        "Math": 4,
+        "Sport": 3,
+        "German": 5,
+        "Histoy": 2,
+        "Music": null,
+        "IT": 3
+    }
+}
